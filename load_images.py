@@ -1,3 +1,4 @@
+# type: ignore
 import cv2
 from glob import glob
 import numpy as np

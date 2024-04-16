@@ -1,3 +1,4 @@
+# type: ignore
 import cv2, os
 
 def flip_images():

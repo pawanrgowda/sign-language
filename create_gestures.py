@@ -1,3 +1,4 @@
+# type: ignore
 import cv2
 import numpy as np
 import pickle, os, sqlite3, random

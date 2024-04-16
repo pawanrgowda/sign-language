@@ -1,3 +1,4 @@
+# type: ignore
 import tensorflow as tf
 import numpy as np
 import pickle, os, cv2

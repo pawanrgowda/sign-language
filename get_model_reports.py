@@ -1,3 +1,4 @@
+# type: ignore
 from keras.models import load_model
 from sklearn.metrics import classification_report, confusion_matrix
 import pickle
